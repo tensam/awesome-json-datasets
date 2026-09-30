@@ -225,6 +225,8 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 > Heads up: Only works for US airports only, not international.
 
+* [Passport and Visa Photo Requirements](https://raw.githubusercontent.com/tensam/passport-photo-requirements/main/specs.json)
+
 ## TV Shows
 
 * [Mr. Robot (USA)](http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes)
